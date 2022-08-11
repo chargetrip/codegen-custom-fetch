@@ -1,0 +1,24 @@
+{
+  "name": "codegen-chargetrip-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A customFetch implementation for using @graphql-codegen with Chargetrip GraphQL APIs",
+  "homepage": "",
+  "bugs": "",
+  "keywords": [
+    "chargetrip",
+    "codegen",
+    "graphql",
+    "graphql-codegen",
+    "fetch"
+  ],
+  "dependencies": {
+    "graphql": "^16.5.0",
+    "node-fetch": "^2.0.0"
+  },
+  "author": "Wouter van de Kamp",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
